@@ -1,4 +1,4 @@
-import Add from './components/add';
+import Add from './components/Add';
 import TodoList from './components/TodoList';
 
 const App = () => {
