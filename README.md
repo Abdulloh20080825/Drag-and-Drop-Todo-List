@@ -23,7 +23,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Abdulloh20080825/https://github.com/Abdulloh20080825Drag-and-Drop-Todo-List.git
+git clone https://github.com/Abdulloh20080825/Drag-and-Drop-Todo-List.git
 cd taskify
 ```
 
