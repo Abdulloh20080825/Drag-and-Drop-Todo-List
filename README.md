@@ -24,8 +24,13 @@
 
 ```bash
 git clone https://github.com/Abdulloh20080825/Drag-and-Drop-Todo-List.git
-cd taskify
+
 ```
+```bash
+cd Drag-and-Drop-Todo-List
+
+```
+
 
 ```bash
 npm install
